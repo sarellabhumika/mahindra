@@ -1,0 +1,12 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.card:hover{
+    transform: scale(0.98);
+    transition: all 0.3s;
+}
+.about li{
+    list-style: none;
+}
+
